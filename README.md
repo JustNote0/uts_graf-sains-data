@@ -65,7 +65,7 @@ Pemfilteran dilakukan berdasarkan atribut timestamp. Hasil pemfilteran disimpan 
 
 The analysis covers graph composition, projection characteristics, similarity scores, recommended products, and recommendation evaluation.
 
-*Detailed results and visualizations are available in the notebook.*
+*Detailed results and visualizations are available in the notebook*
 
 ---
 
