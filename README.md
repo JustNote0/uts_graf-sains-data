@@ -36,7 +36,7 @@ Analisis menggunakan dua periode waktu untuk memisahkan data training dan testin
 
 Periode 1 (Training): [01 Junil – 20 Juni]
 
-Periode 2 (Testing): [21 Jnil – 30 Juni]
+Periode 2 (Testing): [21 Juni – 30 Juni]
 
 Pemfilteran dilakukan berdasarkan atribut timestamp. Hasil pemfilteran disimpan dalam file CSV untuk digunakan pada tahap analisis selanjutnya.
 
