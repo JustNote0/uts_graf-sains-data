@@ -12,7 +12,7 @@
 
 ## ✨ Tentang Proyek
 
-Membangun sistem rekomendasi produk dari log perilaku pengunjung toko online ([RetailRocket](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)) menggunakan **graf Neo4j** dan **Python**.
+Membangun sistem rekomendasi produk dari log perilaku pengunjung toko online ([RetailRocket](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)) menggunakan **graf Neo4j**.
 
 Alurnya: data interaksi → graf → vektor (VSM) → proyeksi → similarity → rekomendasi KNN → evaluasi.
 
