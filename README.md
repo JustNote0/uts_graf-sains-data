@@ -81,7 +81,7 @@ Skor disimpan kembali ke Neo4j sebagai relasi `SIMILAR_TO`.
 │   └── events_p2.csv           # data P2 hasil filter
 ├── graf/
     ├── sebelum.png            # graf Neo4j sebelum 
-    └── sesudah.png             # graf Neo4j sesudah
+    └── sesudah.png            # graf Neo4j sesudah
 └── README.md
 ```
 
