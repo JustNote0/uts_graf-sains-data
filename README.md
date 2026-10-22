@@ -77,6 +77,7 @@ Skor disimpan kembali ke Neo4j sebagai relasi `SIMILAR_TO`.
 ├── uts_graf_sains_data.ipynb   # notebook utama (kode + penjelasan)
 ├── requirements.txt            # daftar paket
 ├── data/
+    ├── event.csv
 │   ├── events_p1.csv           # data P1 hasil filter
 │   └── events_p2.csv           # data P2 hasil filter
 ├── graf/                       # graf Neo4j sebelum & sesudah
@@ -92,7 +93,6 @@ Skor disimpan kembali ke Neo4j sebagai relasi `SIMILAR_TO`.
    myenv\Scripts\activate
    pip install -r requirements.txt
    ```
-3. Unduh `events.csv` dari [Kaggle](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset) dan taruh di folder `data/` (file asli tidak diunggah karena ukurannya besar).
-4. Buka `uts_graf_sains_data.ipynb`, pilih kernel `myenv`, ganti password Neo4j pada sel koneksi, lalu jalankan semua sel.
+3. Buka `uts_graf_sains_data.ipynb`, pilih kernel `myenv`, ganti password Neo4j pada sel koneksi, lalu jalankan semua sel.
 
 ---
